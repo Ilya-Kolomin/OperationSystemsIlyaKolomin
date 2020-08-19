@@ -1,0 +1,21 @@
+    1  ls -a
+    2  ls usr/bin
+    3  ls /usr/bin
+    4  gcc -h
+    5  sudo apt install gcc
+    6  ls -a /usr/bin
+    7  ls -ar | grep gcc
+    8  ls -a | grep gcc
+    9  ls -ar /usr/bin | grep gcc
+   10  mkdir ~/week1
+   11  cd ~/week1
+   12  ls -ar /usr/bin | grep gcc > ex1.txt
+   13  cat ex1.txt 
+   14  history
+   15  cat > ex3.sh
+   16  sh ex3.sh
+   17  gedit ~/week1/main.c
+   18  cat main.c
+   19  gcc main.c -o ~/week1/ex4
+   20  ./ex4
+   21  history > ex2.txt
