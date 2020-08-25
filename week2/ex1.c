@@ -2,7 +2,7 @@
 #include <float.h>
 #include <limits.h>
 
-int main() {
+int main () {
     int a = INT_MAX;
     float b = FLT_MAX;
     double c = DBL_MAX;
