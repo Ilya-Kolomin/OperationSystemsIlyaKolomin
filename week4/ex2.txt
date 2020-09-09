@@ -1,0 +1,1 @@
+After the first iteration we will create 1 new process, after the second - 2, after the third - 4. So that we will have 1 + 1 + 2 + 4 = 8 processes. In case of 5 iterations, we will have 2^5 = 32 new processes.

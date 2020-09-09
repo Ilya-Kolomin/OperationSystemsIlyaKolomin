@@ -1,0 +1,3 @@
+Since we create new process by duplicating existing one, the phrase "Hello from child" will appear twice.
+However, the new process will have incremented pid because it should be unique.
+As we repeat it 10 times, the new processes will have incremented pid.
