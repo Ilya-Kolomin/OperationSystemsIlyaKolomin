@@ -1,0 +1,1 @@
+Before fix, the threads perfomred sequentially (ie the main thread ended and then other threads started).

@@ -1,0 +1,1 @@
+After lanching the the second script the numbers started to repeat.
