@@ -1,0 +1,1 @@
+Shortest job first showed us the lowest TAT and WT metrics.
