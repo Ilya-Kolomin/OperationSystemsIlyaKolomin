@@ -1,0 +1,2 @@
+8 KB = 2^13 bytes, so that the offset should be equal to 13.
+Thus we have 16 - 13 = 3 bits for indexing the virtual page. So that we should have 2^3 = 8 entries.

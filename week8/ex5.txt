@@ -1,0 +1,4 @@
+Virtual memory is an abstaction of physical memory for a program like process is an abstraction of CPU. It helps the process think that all given virtual memory is its and makes it not to think about other processes and actual physical memory size.
+
+While physical memory is an actual memory installed in computer. It is not an abstraction but a representation of a hardware.
+
