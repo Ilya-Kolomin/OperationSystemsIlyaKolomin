@@ -1,0 +1,2 @@
+If there will be no pepeations (example 1 2 3 4 ... ) then there will be no hits and the output will be 0.
+If every 10th time there will be 1 (example 1 2 3 ... 9 1 10 11 12 ... 18 1 19 20 ...) and the number of page frames is 50 then we will have roughly 1/10 hit/miss ratio.
