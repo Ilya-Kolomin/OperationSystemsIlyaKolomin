@@ -1,0 +1,2 @@
+In the first program "Hello" was printed twice because buffer was not empty at the moment of creation of the new process. So that each process than flushed the buffer and printed "Hello" after printing '\n'
+In the second program "Hello" was printed once because buffer was flushed before fork.
