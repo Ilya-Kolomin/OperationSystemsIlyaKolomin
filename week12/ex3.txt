@@ -1,0 +1,26 @@
+Small file with standard buf size and wihtout sync.
+real	0m0,013s
+user	0m0,000s
+sys	0m0,001s
+
+Large file with standard buf size and wihtout sync.
+real	0m0,236s
+user	0m0,004s
+sys	0m0,095s
+
+Large file with halfed buf size and without sync.
+real	0m0,236s
+user	0m0,004s
+sys	0m0,095s
+
+Large file with standard buf size and with sync.
+real	1m17,225s
+user	0m0,090s
+sys	0m2,870s
+
+Large file with halfed buf size and with sync.
+real	2m32,101s
+user	0m0,193s
+sys	0m5,506s
+
+Increasing file size, decreasing buf size of turning on sync: all of these increases the time.
